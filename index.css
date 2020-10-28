@@ -1,3 +1,7 @@
+a, a:hover {
+  color:initial;
+  text-decoration: none;
+}
 .avatar {
   border-radius: 100%;
   background-size: cover;
